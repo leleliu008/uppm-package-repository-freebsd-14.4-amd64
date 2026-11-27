@@ -1,0 +1,5 @@
+summary: A modern diagram scripting language that turns text to diagrams
+webpage: https://github.com/d2lang/d2
+version: 0.9.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.4-amd64/releases/download/2026.11.27/d2-0.9.0-freebsd-14.4-amd64.release.tar.xz
+bin-sha: 1cb419edc5946939ce02069c2a74d5d4698af98f1f2366d7ce09ba3c5995432e

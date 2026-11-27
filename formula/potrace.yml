@@ -1,0 +1,5 @@
+summary: A command-line tool for converting bitmaps to vector graphics
+webpage: https://potrace.sourceforge.io/
+version: 1.16
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.4-amd64/releases/download/2026.11.27/potrace-1.16-freebsd-14.4-amd64.release.tar.xz
+bin-sha: b8e35cbbde4396a2c71a902b69248913fe3f1d3feecd43da294917294505f372

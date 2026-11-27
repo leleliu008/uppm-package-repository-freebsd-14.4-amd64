@@ -1,0 +1,5 @@
+summary: Cross-platform make
+webpage: https://www.cmake.org/
+version: 3.31.12
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.4-amd64/releases/download/2026.11.27/cmake-3.31.12-freebsd-14.4-amd64.release.tar.xz
+bin-sha: 84b5b15ea3353fb82a0c499bbc99a8cb1785e9e6320945d34ec260cde4506df6

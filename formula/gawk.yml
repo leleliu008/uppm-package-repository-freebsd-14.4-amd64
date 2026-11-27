@@ -1,0 +1,5 @@
+summary: GNU awk utility
+webpage: https://www.gnu.org/software/gawk
+version: 5.4.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.4-amd64/releases/download/2026.11.27/gawk-5.4.0-freebsd-14.4-amd64.release.tar.xz
+bin-sha: e507b2a60b7abc3339ffa73ccd535eca9d7c40f25dbb01324e8c8e15d07f72fb

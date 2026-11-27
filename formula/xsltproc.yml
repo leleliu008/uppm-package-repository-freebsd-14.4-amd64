@@ -1,0 +1,5 @@
+summary: A command line tool for applying XSLT stylesheets to XML documents
+webpage: https://gitlab.gnome.org/GNOME/libxslt
+version: 1.1.45
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.4-amd64/releases/download/2026.11.27/xsltproc-1.1.45-freebsd-14.4-amd64.release.tar.xz
+bin-sha: f9fd4d535f7b82bf828e6002b4b9a937ac8ed7f34dd31c4fe02de6302a54008d

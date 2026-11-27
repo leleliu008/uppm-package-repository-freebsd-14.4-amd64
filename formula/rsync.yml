@@ -1,0 +1,5 @@
+summary: A command-line tool for synchronizing files
+webpage: https://rsync.samba.org/
+version: 3.5.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.4-amd64/releases/download/2026.11.27/rsync-3.5.2-freebsd-14.4-amd64.release.tar.xz
+bin-sha: 6cb450eaefa93760d657701ec6f7b98e7c2734a47f62cb6f740b7ab69e4baf21

@@ -1,0 +1,5 @@
+summary: A terminal based markdown reader
+webpage: https://github.com/charmbracelet/glow
+version: 3.0.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.4-amd64/releases/download/2026.11.27/glow-3.0.0-freebsd-14.4-amd64.release.tar.xz
+bin-sha: 76d13c4dbb58f5f6b4041556f5c8fd52b708746e97b19a68550a633b542a82d1

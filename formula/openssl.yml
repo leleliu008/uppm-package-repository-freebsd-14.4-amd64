@@ -1,0 +1,5 @@
+summary: Cryptography and SSL/TLS Toolkit
+webpage: https://openssl-library.org/
+version: 3.6.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.4-amd64/releases/download/2026.11.27/openssl-3.6.2-freebsd-14.4-amd64.release.tar.xz
+bin-sha: b428de462aa599452be93925876724579bdcb120b0346466aa606692f3995d38

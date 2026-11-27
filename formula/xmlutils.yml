@@ -1,0 +1,5 @@
+summary: A collections of command-line utilities provided by libxml2
+webpage: https://gitlab.gnome.org/GNOME/libxml2
+version: 2.15.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.4-amd64/releases/download/2026.11.27/xmlutils-2.15.3-freebsd-14.4-amd64.release.tar.xz
+bin-sha: e594c624926352bf22f4231bbf6a89f6453e5037fde11b0b28f4842723f3ae57

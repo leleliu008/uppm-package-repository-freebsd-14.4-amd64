@@ -1,0 +1,5 @@
+summary: A package of several programs related to finding files
+webpage: https://www.gnu.org/software/findutils
+version: 4.11.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.4-amd64/releases/download/2026.11.27/findutils-4.11.0-freebsd-14.4-amd64.release.tar.xz
+bin-sha: d5f894db8ca48d68a1c5ba94383f2ab6ce510bd7b8c99b7215e46480ff0e0b6a

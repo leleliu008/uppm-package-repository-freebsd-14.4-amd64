@@ -1,0 +1,5 @@
+summary: A small static web server without CGI
+webpage: https://unix4lyfe.org/darkhttpd/
+version: 1.17
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.4-amd64/releases/download/2026.11.27/darkhttpd-1.17-freebsd-14.4-amd64.release.tar.xz
+bin-sha: 8858faa370badb0d14f07b2e05ae873f68c6efcf1fb3b6c751d7b99539ea0f0c

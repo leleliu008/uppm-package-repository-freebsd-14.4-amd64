@@ -1,0 +1,5 @@
+summary: LZMA-based compression program similar to gzip or bzip2
+webpage: https://www.nongnu.org/lzip
+version: 1.26
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.4-amd64/releases/download/2026.11.27/lzip-1.26-freebsd-14.4-amd64.release.tar.xz
+bin-sha: e138d7e51941b02db0360542676730d301dd2c41f50704ba3d5a564ec48e4da0

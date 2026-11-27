@@ -1,0 +1,5 @@
+summary: Yet another assembler, a complete reimplementation of NASM
+webpage: https://github.com/yasm/yasm
+version: 2026.11.27
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.4-amd64/releases/download/2026.11.27/yasm-2026.11.27-freebsd-14.4-amd64.release.tar.xz
+bin-sha: 6395da7fb689a69be49a80c741f10c63fc81a657da7839f932d1733de4f6ccc7

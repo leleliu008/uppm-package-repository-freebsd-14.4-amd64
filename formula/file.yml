@@ -1,0 +1,5 @@
+summary: A command-line tool to determine file types
+webpage: https://www.darwinsys.com/file
+version: 5.48
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.4-amd64/releases/download/2026.11.27/file-5.48-freebsd-14.4-amd64.release.tar.xz
+bin-sha: af8edb847df72c4db5782e145286bc2a089750db846c2b068ed0dc7384789c50

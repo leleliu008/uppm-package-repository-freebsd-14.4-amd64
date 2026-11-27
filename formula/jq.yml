@@ -1,0 +1,5 @@
+summary: A lightweight and flexible command-line JSON processor
+webpage: https://jqlang.github.io/jq/
+version: 1.8.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.4-amd64/releases/download/2026.11.27/jq-1.8.2-freebsd-14.4-amd64.release.tar.xz
+bin-sha: 5d626791b4fbf895ad48094bb4e69742a845a81d68211d645249ff8f37f2ee23

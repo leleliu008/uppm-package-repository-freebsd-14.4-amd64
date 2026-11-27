@@ -1,0 +1,5 @@
+summary: Compression and file packaging/archive utility
+webpage: https://infozip.sourceforge.io/Zip.html
+version: 3.0.13
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.4-amd64/releases/download/2026.11.27/zip-3.0.13-freebsd-14.4-amd64.release.tar.xz
+bin-sha: 5abe360da8ab064fe75c3b762b5a8e97e56542f0245ff812a3c8bcd1cd599dc3

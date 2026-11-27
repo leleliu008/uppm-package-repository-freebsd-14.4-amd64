@@ -1,0 +1,5 @@
+summary: Apply a diff file to an original
+webpage: https://savannah.gnu.org/projects/patch
+version: 2.8
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.4-amd64/releases/download/2026.11.27/patch-2.8-freebsd-14.4-amd64.release.tar.xz
+bin-sha: 1f14e3df3bad306f8410ba5f713a0c19318a4fc1342a8b7de50077973901f7d8
